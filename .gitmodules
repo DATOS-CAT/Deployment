@@ -1,0 +1,3 @@
+[submodule "omop-cdm-toolkit"]
+	path = omop-cdm-toolkit
+	url = https://gitlab.bsc.es/health-data/omop-cdm-toolkit

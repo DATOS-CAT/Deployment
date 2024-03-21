@@ -1,3 +1,6 @@
 [submodule "omop-cdm-toolkit"]
 	path = omop-cdm-toolkit
 	url = https://gitlab.bsc.es/health-data/omop-cdm-toolkit
+[submodule "beacon-omop"]
+	path = beacon-omop
+	url = https://gitlab.bsc.es/impact-data/impd-beacon_omopcdm

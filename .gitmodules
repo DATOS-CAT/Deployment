@@ -4,3 +4,6 @@
 [submodule "beacon-omop"]
 	path = beacon-omop
 	url = https://gitlab.bsc.es/impact-data/impd-beacon_omopcdm
+[submodule "DataSHIELD/dsOMOP"]
+	path = DataSHIELD/dsOMOP
+	url = https://github.com/isglobal-brge/dsOMOP

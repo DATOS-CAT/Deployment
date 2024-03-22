@@ -7,3 +7,6 @@
 [submodule "DataSHIELD/dsOMOP"]
 	path = DataSHIELD/dsOMOP
 	url = https://github.com/isglobal-brge/dsOMOP
+[submodule "DataSHIELD/dsOMOPClient"]
+	path = DataSHIELD/dsOMOPClient
+	url = https://github.com/isglobal-brge/dsOMOPClient

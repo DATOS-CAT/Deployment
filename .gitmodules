@@ -1,9 +1,9 @@
 [submodule "omop-cdm-toolkit"]
 	path = omop-cdm-toolkit
-	url = https://gitlab.bsc.es/health-data/omop-cdm-toolkit
+	url = https://gitlab.bsc.es/health-data/omop-cdm-toolkit.git
 [submodule "beacon-omop"]
 	path = beacon-omop
-	url = https://gitlab.bsc.es/impact-data/impd-beacon_omopcdm
+	url = https://gitlab.bsc.es/impact-data/impd-beacon_omopcdm.git
 [submodule "DataSHIELD/dsOMOP"]
 	path = DataSHIELD/dsOMOP
 	url = https://github.com/isglobal-brge/dsOMOP
